@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DOMINQUE</Machine>
+    <WindowsUser>Dterryable</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>55121DominqueTerry.BaseballDrills</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>CBA94395007C677999CB1BDF36219F1C30CF8865D0DEA183B4D8A6DDB2D303D9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>55121DominqueTerry.BaseballDrills_1.1.0.0_neutral__4zszprrk1de7y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>55121DominqueTerry.BaseballDrills_4zszprrk1de7y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>55121DominqueTerry.BaseballDrills</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=73EDAEBE-AB82-4D1F-A6F5-91757F1E379A</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-21T02:00:22.927</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\bin\Release\BaseballDrills.Windows.exe">
+      <PackagePath>BaseballDrills.Windows.exe</PackagePath>
+      <Modified>2014-12-21T02:00:05.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2014-04-29T00:27:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2014-04-29T00:27:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2014-04-29T00:27:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-04-29T00:27:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2014-04-29T00:27:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\mraidApi.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\mraidApi.html</PackagePath>
+      <Modified>2014-04-29T00:27:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2014-04-29T00:30:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\Assets\baseballIcon.png">
+      <PackagePath>Assets\baseballIcon.png</PackagePath>
+      <Modified>2014-12-20T09:54:13.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\Assets\baseballplaybook.png">
+      <PackagePath>Assets\baseballplaybook.png</PackagePath>
+      <Modified>2014-12-20T09:52:06.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\Assets\hitting-stance.png">
+      <PackagePath>Assets\hitting-stance.png</PackagePath>
+      <Modified>2014-12-20T22:40:00.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-21T01:56:48.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\Assets\pitchstance.png">
+      <PackagePath>Assets\pitchstance.png</PackagePath>
+      <Modified>2014-12-20T22:40:00.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-21T01:57:56.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-21T01:56:01.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-21T01:57:23.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Shared\Assets\ball.mp3">
+      <PackagePath>Assets\ball.mp3</PackagePath>
+      <Modified>2014-12-18T21:51:24.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Shared\Assets\hit.mp3">
+      <PackagePath>Assets\hit.mp3</PackagePath>
+      <Modified>2014-12-18T21:58:43.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Shared\Assets\out.mp3">
+      <PackagePath>Assets\out.mp3</PackagePath>
+      <Modified>2014-12-18T21:51:24.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Shared\Assets\strike.mp3">
+      <PackagePath>Assets\strike.mp3</PackagePath>
+      <Modified>2014-12-18T21:51:24.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-12-21T02:00:02.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-12-21T02:00:02.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\bin\Release\PitchCountRT.xbf">
+      <PackagePath>PitchCountRT.xbf</PackagePath>
+      <Modified>2014-12-21T02:00:02.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\bin\Release\SwingCountRT.xbf">
+      <PackagePath>SwingCountRT.xbf</PackagePath>
+      <Modified>2014-12-21T02:00:02.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\bin\Release\BaseballDrills.Windows.xr.xml">
+      <PackagePath>BaseballDrills.Windows.xr.xml</PackagePath>
+      <Modified>2014-12-21T02:00:02.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Windows\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-21T02:00:07.090</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

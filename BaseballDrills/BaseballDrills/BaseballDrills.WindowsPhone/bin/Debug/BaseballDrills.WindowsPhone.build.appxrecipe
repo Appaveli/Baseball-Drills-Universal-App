@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DOMINQUE</Machine>
+    <WindowsUser>Dterryable</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3209fb68-4480-4fe2-a573-074d83ba214a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\bin\Debug\BaseballDrills.WindowsPhone.exe">
+      <PackagePath>BaseballDrills.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\Assets\hitting-stance.png">
+      <PackagePath>Assets\hitting-stance.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\Assets\pitchstance.png">
+      <PackagePath>Assets\pitchstance.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\baseballIcon.png">
+      <PackagePath>baseballIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\baseballplaybook_phone.png">
+      <PackagePath>baseballplaybook_phone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Shared\Assets\ball.mp3">
+      <PackagePath>Assets\ball.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Shared\Assets\hit.mp3">
+      <PackagePath>Assets\hit.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Shared\Assets\out.mp3">
+      <PackagePath>Assets\out.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.Shared\Assets\strike.mp3">
+      <PackagePath>Assets\strike.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\bin\Debug\PitchCount.xbf">
+      <PackagePath>PitchCount.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\bin\Debug\SwingCount.xbf">
+      <PackagePath>SwingCount.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\bin\Debug\BaseballDrills.WindowsPhone.xr.xml">
+      <PackagePath>BaseballDrills.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dterryable\documents\visual studio 2013\Projects\BaseballDrills\BaseballDrills\BaseballDrills.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

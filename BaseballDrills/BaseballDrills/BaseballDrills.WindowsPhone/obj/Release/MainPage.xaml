@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="BaseballDrills.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BaseballDrills"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="baseballplaybook_phone.png"/>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="Left" Margin="230,10,0,0" TextWrapping="Wrap" Text="Baseball Drills" VerticalAlignment="Top" FontSize="36" Foreground="White" FontFamily="Segoe WP Semibold" FontWeight="Bold"/>
+        <Image HorizontalAlignment="Left" Height="50" Margin="159,8,0,0" VerticalAlignment="Top" Width="50" Source="baseballIcon.png"/>
+        <Image HorizontalAlignment="Left" Height="50" Margin="467,8,0,0" VerticalAlignment="Top" Width="50" Source="baseballIcon.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="130,104,0,0" VerticalAlignment="Top" Width="100" Source="Assets/pitchstance.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="130,249,0,0" VerticalAlignment="Top" Width="100" Source="Assets/hitting-stance.png"/>
+        <HyperlinkButton x:ConnectionId='1' Content="Pitch Count" HorizontalAlignment="Left" Margin="230,117,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="White" FontSize="36"                              />
+        <HyperlinkButton x:ConnectionId='2' Content="Swing Count" HorizontalAlignment="Left" Margin="230,276,0,0" VerticalAlignment="Top" Foreground="White" FontSize="36"                                />
+    </Grid>
+</Page>
+
